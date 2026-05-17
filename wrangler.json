@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "mhorfine",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d77b2545-389c-401b-8692-ef8d18607024",
+			"database_name": "mhorfine"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
